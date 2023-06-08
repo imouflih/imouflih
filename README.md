@@ -1,10 +1,5 @@
-<!---
-imouflih/imouflih is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
 <h2> Hi, I'm MOUFLIH Iliasse! <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT42iQylZnlfcxMtcTk71_x8lt-BJK_pSPvJRHsqDoRyg&s)" width="50"></h2>
-<p><em>Software Enginner at <a href="https://ensim.univ-lemans.fr/fr/index.html">ENSIM - Le Mans University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
+<p><em>Software Enginner Student at <a href="https://ensim.univ-lemans.fr/fr/index.html">ENSIM - Le Mans University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></em></p>
 
 [Linkedin: iliasse-mouflih](https://www.linkedin.com/in/iliasse-mouflih/)
 
