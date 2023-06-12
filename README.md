@@ -10,7 +10,7 @@
 const iliasse = {
   nickname: "imouflih",
   code: [Javascript, Typescript, HTML, CSS, PHP, Python, Java, C, C++],
-  tools: [React, Vue, Node, Django, Flutter, Flask, Angular],
+  tools: [React, Next, Vue, Node, Django, Flutter, Flask, Angular],
   challenge: "Becomming an expert web developper and programmer"
 }
 ```
